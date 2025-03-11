@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1bc3dd6ddc6e68488ae490155b50ea3, type: 3}
+  m_Name: FirstCounselCharacter
+  m_EditorClassIdentifier: 
+  Name: 
+  Description: 
+  Rarity: 0
+  Icon: {fileID: 0}
+  RenownPrice: 0
+  ShowSkillGroup: 1
+  MaxSkillLevel: 0
+  TrainingBonusPercantage: 0
+  PossibleLootPercantage: 0
+  PossibleLootQuality: 0
+  ShowWeaknessGroup: 0
+  ReduceEnemyResistance: 0
+  ReduceEnemyMagicResistence: 0
+  CriticalWeakness: 0
+  FireWeakness: 0
+  FrostWeakness: 0
+  ShockWeakness: 0
+  ShowEffectGroup: 0
+  IncreaseDamageEffectStrenght: 0
+  IncreaseBleedEffectStrenght: 0
+  IncreasePoisonEffectStrenght: 0
+  IncreaseFrostEffectStrenght: 0
+  IncreaseFireEffectStrenght: 0
+  IncreaseShockEffectStrenght: 0
+  ShowModifierGroup: 1
+  ReduceEnemyPhysicalResistence: 0
+  ReduceEnemyHp: 0
+  ReduceEnemySpeed: 0
+  ShowOtherGroup: 1
+  ReduceEnemyRegeneration: 0
+  IncreaseEnemyCooldown: 0
+  ReviveAgain: 0

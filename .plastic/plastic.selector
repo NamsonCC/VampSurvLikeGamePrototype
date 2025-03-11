@@ -1,0 +1,4 @@
+repository "MyVampireSurvivalLikeGame@AmonesusGame@cloud"
+  path "/"
+    br "/main"
+    co "/main"

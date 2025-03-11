@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34cafa22fa5407e409eb6d200de1d22a, type: 3}
+  m_Name: FirstMonsterData
+  m_EditorClassIdentifier: 
+  Name: Monsteraaaa
+  Description: sed
+  MonsterTypes: 0
+  Rarity: 0
+  monsterTexture: {fileID: 10912, guid: 0000000000000000f000000000000000, type: 0}
+  monsterTextureNumber: 0
+  Scale: 1
+  Speed: 1
+  SeparationRadius: 0.3
+  HP: 150
+  BaseMagicResistance: 0
+  BaseDamage: 1
+  DamageCooldown_Limit: 0.5
+  DamageCooldown: 0
+  BleedResistance: 0
+  PoisonResistance: 0
+  BurnResistance: 0
+  FrozenResistance: 0
+  ShockResistance: 0
+  UnBleedable: 1
+  UnPoisonable: 1
+  UnBurnable: 0
+  UnFrozenable: 0
+  UnShockable: 0
+  TriggerSize: 0
+  IsMovementBlocked: 0

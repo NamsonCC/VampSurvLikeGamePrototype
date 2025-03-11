@@ -1,0 +1,23 @@
+# ninja log v5
+7	8559	7632776041335797	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8b5995aeb3067083
+433	2131	7632775974703858	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f9c2684cad150d46
+51	7472	7632776029895042	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	59fda40d19a77aa1
+222	5917	7632776013916862	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	48a5a950a218ad9c
+2136	5524	7632776003620241	C:/Users/osman/VampireSurvivalLikeGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1h4s4v62/obj/arm64-v8a/libswappywrapper.so	e02b3835e8931910
+95	5799	7632776012665047	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	68e44a9c22436dac
+72	6897	7632776024401395	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d1687ae980e5b5e5
+364	6452	7632776019558329	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a8fe39cb2657dfd6
+124	7182	7632776027434179	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3aee9a1f650499f6
+200	8490	7632776040697506	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8904a243d39db417
+8565	9076	7632776046078828	C:/Users/osman/VampireSurvivalLikeGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1h4s4v62/obj/arm64-v8a/libgame.so	f29a7e9bdf3aae74
+97	392	7632803529866565	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f9c2684cad150d46
+393	1306	7632803538891773	C:/Users/osman/VampireSurvivalLikeGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1h4s4v62/obj/arm64-v8a/libswappywrapper.so	e02b3835e8931910
+44	2265	7632803548547069	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3aee9a1f650499f6
+5	2303	7632803548916070	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	68e44a9c22436dac
+14	2326	7632803549135478	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d1687ae980e5b5e5
+69	2372	7632803549574313	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	48a5a950a218ad9c
+81	2515	7632803550970585	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a8fe39cb2657dfd6
+23	2656	7632803552422669	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	59fda40d19a77aa1
+56	2993	7632803555790738	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8904a243d39db417
+34	3193	7632803557831672	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8b5995aeb3067083
+3194	3477	7632803560604022	C:/Users/osman/VampireSurvivalLikeGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1h4s4v62/obj/arm64-v8a/libgame.so	f29a7e9bdf3aae74

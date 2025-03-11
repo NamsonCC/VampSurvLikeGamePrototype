@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &831791411151486160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5029921069590155246}
+  - component: {fileID: -5843553876877247866}
+  m_Layer: 0
+  m_Name: Monster_Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5029921069590155246
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831791411151486160}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-5843553876877247866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831791411151486160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767f40fda5175ae4cac6407c41e73c59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 4129765341553779125, guid: 1f0c60888c5027840936b397fa2ba618, type: 3}
+  - {fileID: 4129765341553779125, guid: 9916c5cf663ca6a488cae7dcf06549ac, type: 3}
+  - {fileID: 4129765341553779125, guid: 22055e056672674419cf7a2e07e8212a, type: 3}
+  - {fileID: 4129765341553779125, guid: 549eeb5f3fa7ba345aaa4272ddfa8c6e, type: 3}
+  - {fileID: 4129765341553779125, guid: 8cc9d5bd58e092e4eb3d0e416af8ff20, type: 3}
+  - {fileID: 4129765341553779125, guid: 83f6951471342b240b26f6deb0ed2a08, type: 3}
+  - {fileID: 4129765341553779125, guid: 09f6ebe8fa99bb3468ec5c2faf66dd94, type: 3}
+  prefabDataEntities: []
+  spawnRadius: 10
+  MaxEntityCount: 500
+  CurrentCountOfEntitites: 0
+  scale: 2
