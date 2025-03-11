@@ -1,2 +1,2 @@
 ![Shader Önizleme](https://github.com/NamsonCC/VampSurvLikeGamePrototype
-.png)
+Image Sequence_001_0000.jpg)
